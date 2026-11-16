@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Paper Inbox</title>
+    <link>https://shio-koji.github.io/paper-inbox-feed/</link>
+    <description>未確認の論文</description>
+    <language>ja</language>
+    <atom:link href="https://shio-koji.github.io/paper-inbox-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Nov 2026 09:58:00 GMT</lastBuildDate>
+    <item>
+      <title>Homogenization of initial cell distribution by secondary flow of medium improves cell culture efficiency</title>
+      <link>https://app.notion.com/p/Fukuma-et-al-2020-40f1cbd71bb0815d98f1fd44adb4eeb4</link>
+      <description>培養皿の旋回による二次流で播種時の細胞分布を均一化。61 rpmで最も均一になり、非攪拌の対照群より細胞増殖が36%高かった。</description>
+      <guid isPermaLink="false">notion:40f1cbd7-1bb0-815d-98f1-fd44adb4eeb4</guid>
+      <pubDate>Thu, 05 Nov 2026 09:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Review of low-cost self-driving laboratories in chemistry and materials science: the “frugal twin” concept</title>
+      <link>https://app.notion.com/p/Lo-et-al-2024-3971cbd71bb0818ab6e5c8e4cee7534a</link>
+      <description>高価な自律実験室の低コストな物理的代替「frugal twin」を提案するレビュー。教育やソフトウェアの試作に役立ち、モジュール化や用途に応じた設計が今後の課題となる。</description>
+      <guid isPermaLink="false">notion:3971cbd7-1bb0-818a-b6e5-c8e4cee7534a</guid>
+      <pubDate>Wed, 08 Jul 2026 02:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation</title>
+      <link>https://app.notion.com/p/Darvish-et-al-2025-3891cbd71bb081e19f03e1aaa03ff54a</link>
+      <description>MATTERIXは、ロボット操作や液体・粉体の動きなどを模擬する化学実験室向けデジタルツイン。自動実験のワークフローを仮想環境で検証し、実機への移行を支援する。</description>
+      <guid isPermaLink="false">notion:3891cbd7-1bb0-81e1-9f03-e1aaa03ff54a</guid>
+      <pubDate>Mon, 22 Jun 2026 09:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
