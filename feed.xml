@@ -6,13 +6,13 @@
     <description>未確認の論文</description>
     <language>ja</language>
     <atom:link href="https://shio-koji.github.io/paper-inbox-feed/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 09:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:04:00 GMT</lastBuildDate>
     <item>
-      <title>Homogenization of initial cell distribution by secondary flow of medium improves cell culture efficiency</title>
-      <link>https://app.notion.com/p/Fukuma-et-al-2020-40f1cbd71bb0815d98f1fd44adb4eeb4</link>
-      <description>培養皿の旋回による二次流で播種時の細胞分布を均一化。61 rpmで最も均一になり、非攪拌の対照群より細胞増殖が36%高かった。</description>
-      <guid isPermaLink="false">notion:40f1cbd7-1bb0-815d-98f1-fd44adb4eeb4</guid>
-      <pubDate>Thu, 05 Nov 2026 09:58:00 GMT</pubDate>
+      <title>Self-Building Labs</title>
+      <link>https://app.notion.com/p/Bai-et-al-2026-4071cbd71bb08188a46adf3156d6f8ab</link>
+      <description>高レベルな科学目標から、実験室のレイアウトやロボットスキル、ワークフローを自ら構築するSelf-Building Labを提案した。複数ロボットの環境で動作し、量子ドット合成の実験で実証した。</description>
+      <guid isPermaLink="false">notion:4071cbd7-1bb0-8188-a46a-df3156d6f8ab</guid>
+      <pubDate>Mon, 26 Oct 2026 05:04:00 GMT</pubDate>
     </item>
     <item>
       <title>Review of low-cost self-driving laboratories in chemistry and materials science: the “frugal twin” concept</title>
