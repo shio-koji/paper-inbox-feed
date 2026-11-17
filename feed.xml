@@ -6,27 +6,41 @@
     <description>未確認の論文</description>
     <language>ja</language>
     <atom:link href="https://shio-koji.github.io/paper-inbox-feed/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 05:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:24:00 GMT</lastBuildDate>
     <item>
-      <title>Self-Building Labs</title>
-      <link>https://app.notion.com/p/Bai-et-al-2026-4071cbd71bb08188a46adf3156d6f8ab</link>
-      <description>高レベルな科学目標から、実験室のレイアウトやロボットスキル、ワークフローを自ら構築するSelf-Building Labを提案した。複数ロボットの環境で動作し、量子ドット合成の実験で実証した。</description>
-      <guid isPermaLink="false">notion:4071cbd7-1bb0-8188-a46a-df3156d6f8ab</guid>
-      <pubDate>Mon, 26 Oct 2026 05:04:00 GMT</pubDate>
+      <title>An AI-native experimental laboratory for autonomous biomolecular operations</title>
+      <link>https://app.notion.com/p/Wu-et-al-2026-41b1cbd71bb081a19367dce411d6d1fa</link>
+      <description>AI主導で20種超の機器を自律制御する生体分子実験室AutoDNAを構築した。複数プロトコルの並列実行を3.2倍高速化し、DNAデータ保存やKRAS変異の同定・検証も達成した。</description>
+      <guid isPermaLink="false">notion:41b1cbd7-1bb0-81a1-9367-dce411d6d1fa</guid>
+      <pubDate>Tue, 17 Nov 2026 00:24:00 GMT</pubDate>
     </item>
     <item>
-      <title>Review of low-cost self-driving laboratories in chemistry and materials science: the “frugal twin” concept</title>
-      <link>https://app.notion.com/p/Lo-et-al-2024-3971cbd71bb0818ab6e5c8e4cee7534a</link>
-      <description>高価な自律実験室の低コストな物理的代替「frugal twin」を提案するレビュー。教育やソフトウェアの試作に役立ち、モジュール化や用途に応じた設計が今後の課題となる。</description>
-      <guid isPermaLink="false">notion:3971cbd7-1bb0-818a-b6e5-c8e4cee7534a</guid>
-      <pubDate>Wed, 08 Jul 2026 02:09:00 GMT</pubDate>
+      <title>BioSimBench</title>
+      <link>https://app.notion.com/p/BioSimBench-41b1cbd71bb081fda180e785615b2483</link>
+      <description>BioSimBenchは、実際のラボ実験に基づき、未知の薬剤・遺伝子ノックダウン・免疫シグナルへの細胞応答を言語モデルが予測できるか評価するベンチマーク。生物学シミュレーションの可否を検証する。</description>
+      <guid isPermaLink="false">notion:41b1cbd7-1bb0-81fd-a180-e785615b2483</guid>
+      <pubDate>Tue, 17 Nov 2026 00:23:00 GMT</pubDate>
     </item>
     <item>
-      <title>MATTERIX: toward a digital twin for robotics-assisted chemistry laboratory automation</title>
-      <link>https://app.notion.com/p/Darvish-et-al-2025-3891cbd71bb081e19f03e1aaa03ff54a</link>
-      <description>MATTERIXは、ロボット操作や液体・粉体の動きなどを模擬する化学実験室向けデジタルツイン。自動実験のワークフローを仮想環境で検証し、実機への移行を支援する。</description>
-      <guid isPermaLink="false">notion:3891cbd7-1bb0-81e1-9f03-e1aaa03ff54a</guid>
-      <pubDate>Mon, 22 Jun 2026 09:30:00 GMT</pubDate>
+      <title>Investigating vault particles with Claude</title>
+      <link>https://app.notion.com/p/Investigating-vault-particles-with-Claude-2026-41b1cbd71bb081afafb7fdba69a587d4</link>
+      <description>原核細胞に存在するvault粒子について、初の3D構造を明らかにした。Anthropicの生物学研究ラボによる新たな成果の一つである。</description>
+      <guid isPermaLink="false">notion:41b1cbd7-1bb0-81af-afb7-fdba69a587d4</guid>
+      <pubDate>Tue, 17 Nov 2026 00:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BioAgent: Self-Directed Skill Acquisition and Capability Growth for Long-Horizon Laboratory Protocols</title>
+      <link>https://app.notion.com/p/Zhang-et-al-2026-41b1cbd71bb081129f7bd9237c7df590</link>
+      <description>BioAgentは、未知の実験プロトコルに必要なスキルを自律的に獲得し、実行中の妥当性も検証するエージェントである。2つの双腕タスクで完遂率66%と58%を達成した。</description>
+      <guid isPermaLink="false">notion:41b1cbd7-1bb0-8112-9f7b-d9237c7df590</guid>
+      <pubDate>Tue, 17 Nov 2026 00:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BenchBench-Protocol: Evaluating Real-World Wet-Lab Protocol Reasoning and Modification</title>
+      <link>https://app.notion.com/p/Sivakumar-et-al-2026-41b1cbd71bb08178a52ac424ff03d3cd</link>
+      <description>実験者が実際に行ったプロトコル改変149件から、LLM向けのウェット実験推論ベンチマークBenchBench-Protocolを構築した。最高のClaude Opus 5でも正規化スコア59.2%で、未飽和だった。</description>
+      <guid isPermaLink="false">notion:41b1cbd7-1bb0-8178-a52a-c424ff03d3cd</guid>
+      <pubDate>Tue, 17 Nov 2026 00:21:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
